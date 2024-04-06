@@ -49,14 +49,14 @@ export const LoginForm = () => {
           />
         </ContainerBox>
         
-  <button class="blob-btn" type="submit">
+  <button className="blob-btn" type="submit">
     Login
-    <span class="blob-btn__inner">
-      <span class="blob-btn__blobs">
-        <span class="blob-btn__blob"></span>
-        <span class="blob-btn__blob"></span>
-        <span class="blob-btn__blob"></span>
-        <span class="blob-btn__blob"></span>
+    <span className="blob-btn__inner">
+      <span className="blob-btn__blobs">
+        <span className="blob-btn__blob"></span>
+        <span className="blob-btn__blob"></span>
+        <span className="blob-btn__blob"></span>
+        <span className="blob-btn__blob"></span>
       </span>
     </span>
   </button>
